@@ -1,3 +1,5 @@
+/* Simple hello world program with a count up to 10 to test the apps on the badge */ 
+
 #include <Arduino.h>
 #include <esp_system.h>
 #include "soc/rtc.h"
